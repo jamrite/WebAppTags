@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JobList>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <DistributionTypeIdentifier>WebApplication</DistributionTypeIdentifier>
+      <BuildId>C:\Users\lvadmin\Documents\LabVIEW Projects\Web Application Project\Builds\Web Server\Configuration1\WebApplication</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <DistributionTypeIdentifier>WebApplication</DistributionTypeIdentifier>
+      <BuildId>C:\Users\lvadmin\Documents\LabVIEW Projects\Web Application Project\Builds\Web Server\Configuration1\WebApplication</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Web Server\Configuration1\WebApplication</OutputPath>
+    <Name>WebApplication</Name>
+    <BuildName>WebApplication(Configuration1)</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:03</LastTotalTime>
+    <HasChild>False</HasChild>
+  </Job>
+</JobList>
